@@ -15,3 +15,11 @@ Visualization and Accessibility: Presents the data via an intuitive, functional 
 
 Future-Proof Design: The system is designed for future integration of Natural Language Processing (NLP) to query and refine complex, data-driven design standards conversationally.
 
+Dataset:-
+Nasa data & resources 
+https://ntrs.nasa.gov/api/citations/20200002973/downloads/20200002973.pdf
+
+https://www.nasa.gov/wp-content/uploads/2024/01/rev-a-acr23-esdmd-001-m2madd.pdf?emrc=67072cd5ca62f
+
+Output:-
+The program's output effectively translates complex volumetric engineering requirements into actionable, real-time design feedback. The central output is the Constraint Engine Status, which uses RED, YELLOW, or GREEN alerts to instantly validate the design against the Minimum Net Habitable Volume (NHV) floor (e.g., 29 \text{ m}^3 per crew). This is accompanied by quantitative metrics showing the NHV Utilization percentage and the precise volume breakdown in the Module Manifest, allowing users to immediately see if their total occupied space meets the functional requirements demanded by a long-duration mission.
